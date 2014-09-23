@@ -1,0 +1,10 @@
+c:\users\giuseppe\documents\visual studio 2013\Projects\YGOProDeckConverter\YGOProDeckConverter\bin\Debug\YGOProDeckConverter.exe.config
+c:\users\giuseppe\documents\visual studio 2013\Projects\YGOProDeckConverter\YGOProDeckConverter\bin\Debug\YGOProDeckConverter.exe
+c:\users\giuseppe\documents\visual studio 2013\Projects\YGOProDeckConverter\YGOProDeckConverter\bin\Debug\YGOProDeckConverter.pdb
+c:\users\giuseppe\documents\visual studio 2013\Projects\YGOProDeckConverter\YGOProDeckConverter\obj\Debug\YGOProDeckConverter.csprojResolveAssemblyReference.cache
+c:\users\giuseppe\documents\visual studio 2013\Projects\YGOProDeckConverter\YGOProDeckConverter\obj\Debug\YGOProDeckConverter.Form1.resources
+c:\users\giuseppe\documents\visual studio 2013\Projects\YGOProDeckConverter\YGOProDeckConverter\obj\Debug\YGOProDeckConverter.Properties.Resources.resources
+c:\users\giuseppe\documents\visual studio 2013\Projects\YGOProDeckConverter\YGOProDeckConverter\obj\Debug\YGOProDeckConverter.csproj.GenerateResource.Cache
+c:\users\giuseppe\documents\visual studio 2013\Projects\YGOProDeckConverter\YGOProDeckConverter\obj\Debug\YGOProDeckConverter.exe
+c:\users\giuseppe\documents\visual studio 2013\Projects\YGOProDeckConverter\YGOProDeckConverter\obj\Debug\YGOProDeckConverter.pdb
+C:\Users\Giuseppe\documents\visual studio 2013\Projects\YGOProDeckConverter\YGOProDeckConverter\bin\Debug\System.Data.SQLite.dll
