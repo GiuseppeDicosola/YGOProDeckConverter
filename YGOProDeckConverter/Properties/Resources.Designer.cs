@@ -9,9 +9,6 @@
 //------------------------------------------------------------------------------
 
 namespace YGOProDeckConverter.Properties {
-    using System;
-    
-    
     /// <summary>
     ///   Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
     /// </summary>

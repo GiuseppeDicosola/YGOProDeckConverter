@@ -5,12 +5,10 @@ namespace YGOProDeckConverter
     public class Card
     {
         public int Id { get; set; }
-        public int Level { get; set; }
 
-        public Card(int id, int level)
+        public Card(int id)
         {
-            Id = id;
-            Level = level;
+            Id = id;          
         }
     }
     public class DeckYdk

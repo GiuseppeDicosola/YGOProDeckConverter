@@ -78,7 +78,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DeckTxt.cs" />
     <Compile Include="DeckYdk.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>

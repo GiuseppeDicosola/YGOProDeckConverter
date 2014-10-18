@@ -90,7 +90,7 @@
             this.MinimizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "YGOPro Deck Converter";
+            this.Text = "YGOPro Deck Converter 1.1";
             this.HelpButtonClicked += new System.ComponentModel.CancelEventHandler(this.Form1_HelpButtonClicked);
             this.ResumeLayout(false);
             this.PerformLayout();

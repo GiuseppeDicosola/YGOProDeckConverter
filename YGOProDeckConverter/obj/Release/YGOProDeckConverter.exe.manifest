@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="YGOProDeckConverter.exe" size="20992">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="YGOProDeckConverter.exe" size="16896">
       <assemblyIdentity name="YGOProDeckConverter" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>09t9RcZ8CVCw3vzR4iqP+4uDdSRTOaV78XZ5eNkk+6I=</dsig:DigestValue>
+        <dsig:DigestValue>D0XdzJIhzEcIKTKK+8xSeSHfiRPbWEciPqjdZ+SAJNU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
